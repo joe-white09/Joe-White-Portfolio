@@ -1,4 +1,6 @@
-
+p {
+    font-size: 25px;
+}
 /*Header Styles*/
 header {
     display: flex;
@@ -91,6 +93,7 @@ footer ul li img {
     display: flex;
     justify-content: center;
     align-items: center;
+    font-size: 25px;
 }
 
 /*My Project Styles*/
@@ -122,6 +125,10 @@ footer ul li img {
     border-radius: 25%;
     background: #069678;
     max-width: 300px;
+}
+
+.my-projects h3 {
+    font-size: 30px;
 }
 
 .my-projects img {
